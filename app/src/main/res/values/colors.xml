@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="recyclerLine">#eee</color>
+    <color name="comment_divider">#ccc</color>
+
+
+    <color name="hightlight_nickname">#285e8e</color>
+    <color name="hightlight_topicname">#d43f3a</color>
+    <color name="hightlight_comment_topicname">#d58512</color>
+    <color name="comment_reply_area">#dff0d8</color>
+
+
+
+
+    <color name="colorTitle">#D34530</color>
+    <color name="colorStatusBar">#B23429</color>
+    <color name="colorSport_BG">#CFEAD8</color>
+    <color name="colorSport_TX">#34784B</color>
+    <color name="colorMusic_BG">#B6C0DE</color>
+    <color name="colorMusic_TX">#445BA8</color>
+    <color name="colorEating_BG">#F7B0A4</color>
+    <color name="colorEating_TX">#B73720</color>
+    <color name="colorMovie_BG">#CAC9E2</color>
+    <color name="colorMovie_TX">#75749B</color>
+    <color name="colorReading_BG">#FEEEBF</color>
+    <color name="colorReading_TX">#CAAB54</color>
+    <color name="colorTravaling_BG">#D3DEE3</color>
+    <color name="colorTravaling_TX">#6D9CB5</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBtn_BG">#66BB6A</color>
+    <color name="colorBtn_Font">#8fce92</color>
+    <color name="colorText_Hint">#cccccc</color>
+    <color name="colorText_check">#ffffff</color>
+    <color name="draw_color">#d8d8f7</color>
+    <color name="draw_tip">#5A5958</color>
+    <color name="title_color">#FF0000</color>
+    <color name="sport_icon">#00a447</color>
+    <color name="eat_icon">#0a52d2</color>
+    <color name="mucis_icon">#df6f57</color>
+    <color name="television_icon">#64668e</color>
+    <color name="read_icon">#e4b837</color>
+    <color name="travl_icon">#7ab3cf</color>
+    <color name="disdegree_green">#FFBFFFC2</color>
+    <color name="search_title">#FF555B55</color>
+    <color name="findnewtitle">#8f2dc7</color>
+    <color name="findoldtitle">#6a7fd1</color>
+    <color name="commond3">#03faea</color>
+
+
+
+    <color name="profile_sex_male">#54C7FC</color>
+    <color name="profile_sex_female">#FD7CB4</color>
+    <color name="profile_district">#990000</color>
+
+
+</resources>

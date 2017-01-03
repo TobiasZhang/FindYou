@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="23dp"
+    android:height="32dp"
+    android:viewportWidth="46"
+    android:viewportHeight="64">
+
+    <group
+        android:name="Page-1">
+        <group
+            android:name="Game-boy"
+            android:translateX="1.000000"
+            android:translateY="1.000000">
+            <path
+                android:name="Shape"
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:pathData="M44,60 C44,61.1 43.1,62 42,62 L2,62 C0.9,62 0,61.1 0,60 L0,2 C0,0.9 0.9,0 2,0
+L42,0 C43.1,0 44,0.9 44,2 L44,60 L44,60 Z" />
+            <path
+                android:name="Shape"
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:pathData="M38,31 C38,32.1 37.1,33 36,33 L8,33 C6.9,33 6,32.1 6,31 L6,9 C6,7.9 6.9,7 8,7
+L36,7 C37.1,7 38,7.9 38,9 L38,31 L38,31 Z" />
+            <path
+                android:name="Shape"
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:pathData="M12,42 L12,52" />
+            <path
+                android:name="Shape"
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:pathData="M7,47 L17,47" />
+            <path
+                android:name="Oval"
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:pathData="M 35 42 C 36.6568542495 42 38 43.3431457505 38 45 C 38 46.6568542495 36.6568542495 48 35 48 C 33.3431457505 48 32 46.6568542495 32 45 C 32 43.3431457505 33.3431457505 42 35 42 Z" />
+            <path
+                android:name="Oval"
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:pathData="M 28 50 C 29.6568542495 50 31 51.3431457505 31 53 C 31 54.6568542495 29.6568542495 56 28 56 C 26.3431457505 56 25 54.6568542495 25 53 C 25 51.3431457505 26.3431457505 50 28 50 Z" />
+        </group>
+    </group>
+</vector>

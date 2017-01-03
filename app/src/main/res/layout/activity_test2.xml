@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="limeng.com.findyou.view.Test2Activity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="@dimen/icon_width"
+            android:layout_height="@dimen/icon_height"
+            android:src="@drawable/sport_icon"
+            android:layout_marginLeft="@dimen/title_padding_left"
+            android:background="@color/sport_icon"/>
+        <widget.FlowLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/text_icon_marginleft"
+            android:id="@+id/sport">
+        </widget.FlowLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/aa"/>
+    </LinearLayout>
+</RelativeLayout>
